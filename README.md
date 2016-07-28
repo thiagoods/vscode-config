@@ -7,6 +7,7 @@ My Visual Studio Code configuration
 - Editor Config
 - CSSComb
 - HTML Boilerplate
+- Sort lines
 
 ###User settings
 
